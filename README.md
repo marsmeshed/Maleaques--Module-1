@@ -16,4 +16,4 @@ No special installation required.
 UCLA Boot-camp in general
 
 ## License
-MITT
+MIT License
