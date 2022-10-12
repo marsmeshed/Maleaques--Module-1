@@ -13,7 +13,7 @@ No special installation required.
 
 ## Credits
 
-UCLA Boot-camp in general
+UCLA Boot-camp in general.
 
 ## License
 MIT License
